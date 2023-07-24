@@ -877,8 +877,8 @@
         "tags": [
           "collections"
         ],
-        "summary": "Create index for field in collection",
-        "description": "Create index for field in collection",
+        "summary": "Create an index for a field in a collection",
+        "description": "Create an index for a field in a collection",
         "operationId": "create_field_index",
         "parameters": [
           {
