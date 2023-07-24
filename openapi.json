@@ -3940,19 +3940,19 @@
   ],
   "tags": [
     {
-      "name": "collections",
+      "name": "Collections",
       "description": "Searchable collections of points."
     },
     {
-      "name": "points",
+      "name": "Points",
       "description": "Float-point vectors with payload."
     },
     {
-      "name": "cluster",
+      "name": "Clusters",
       "description": "Service distributed setup"
     },
     {
-      "name": "snapshots",
+      "name": "Snapshots",
       "description": "Storage and collections snapshots"
     }
   ],
